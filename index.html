@@ -6,6 +6,12 @@
     <title>BLUESTORE</title>
     <link rel="shortcut icon" href="icones-app/android/android-launchericon-48-48.png" type="image/x-icon">
     <link rel="stylesheet" href="styles/globals.css">
+
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') {
+          navigator.serviceWorker.register('pwa-builder.js')
+        }
+      </script>
     <link rel="manifest" href="manifest.json">
 </head>
 <body>
