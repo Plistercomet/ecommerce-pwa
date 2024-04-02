@@ -4,10 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BLUESTORE</title>
-    <!-- Alterar o ícone para o smartphone-->
     <link rel="shortcut icon" href="images/carrinho-de-compras (1).png" type="image/x-icon">
-    <!---->
     <link rel="stylesheet" href="styles/globals.css">
+    <link rel="manifest" href="manifest.json"/>
+    <script>
+        if(typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('pwabuilder-sw (1).js')
+        }
+    </script>
 </head>
 <body>
     <div class="navbar">

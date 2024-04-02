@@ -1,0 +1,50 @@
+{
+  "background_color": "#ebebeb",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BLUESTORE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BLUESTORE",
+  "start_url": "/",
+  "theme_color": "#ebebeb",
+  "icons": [
+    {
+      "src": "images/carrinho-de-compras (1).png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/winwows11/LargeTile.scale-100.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "images/android/android-launchericon-48-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/android/android-launchericon-72-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "images/ios/16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "images/ios/60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    }
+  ],
+  "description": "e-commece de eletronicos",
+  "lang": "pt",
+  "categories": [
+    "business",
+    "education",
+    "games"
+  ]
+}
