@@ -1,0 +1,64 @@
+{
+    "background_color": "#ebebeb",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "BLUESTORE",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "BLUESTORE",
+    "start_url": "/",
+    "theme_color": "#ebebeb",
+    "icons": [
+      {
+
+        "src": "images/carrinho-de-compras.png",
+        "type": "image/png",
+        "sizes": "512x512"
+
+      },
+
+      {
+
+        "src": "images/AppImages/windows11/LargeTile.scale-100.png",
+        "type": "image/png",
+        "sizes": "310x310"
+      },
+
+      {
+
+        "src": "images/AppImages/ios/50.png",
+        "type": "image/png",
+        "sizes": "50x50"
+      },
+
+      {
+
+        "src": "images/AppImages/ios/40.png",
+        "type": "image/png",
+        "sizes": "40x40"
+      },
+
+      {
+
+        "src": "images/AppImages/android/android-launchericon-72-72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+
+      {
+
+        "src": "images/AppImages/android/android-launchericon-96-96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      }
+    ],
+    "id": "id",
+    "description": "e-commerce de eletrônicos",
+    "lang": "pt",
+    "categories": [
+      "business",
+      "games",
+      "navigation"
+    ]
+  }
+
